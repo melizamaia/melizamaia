@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Meliza Maia
 
 - 🔭 Hoje eu trabalho com back-end
-- 🌱 Estudando Python
+- 🌱 Estudando Python e Cloud
 - 😄 Pronomes: ela/dela
 
 <div align="center">
