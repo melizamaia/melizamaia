@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=melizamaia&color=blueviolet&style=for-the-badge&label=VISITAS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melizamaia&theme=dracula&layout=compact&langs_count=8)
 
 </div>
 
