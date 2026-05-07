@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melizamaia&theme=dracula&show_icons=true&locale=pt_BR&count_private=true)
+![](https://komarev.com/ghpvc/?username=melizamaia&color=blueviolet&style=for-the-badge&label=VISITAS)
 
 </div>
 
