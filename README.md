@@ -1,5 +1,4 @@
 ## Olá! Eu sou a Meliza Maia
-
 - 🔭 Hoje eu trabalho com back-end e cloud
 - 🌱 Estudando GCP, OCI e Data Engineering
 - 😄 Pronomes: ela/dela
@@ -8,7 +7,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=melizamaia&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melizamaia&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
