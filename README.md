@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melizamaia&theme=dracula&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melizamaia&theme=dracula&show_icons=true&locale=pt_BR&count_private=true)
 
 </div>
 
