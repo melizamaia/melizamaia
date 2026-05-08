@@ -56,7 +56,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/OCI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Oracle_Data_Platform_2025-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle_Data_Platform_2025-F80000?style=flat-square&logo=oracle&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Oracle_AI_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white">
 </div>
 
 ---
@@ -66,9 +67,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/melizamaia/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp;
-  <a href="https://github.com/melizamaia" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>&nbsp;
   <a href="mailto:melizamaia@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
