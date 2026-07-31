@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Meliza Maia 👋
 **Desenvolvedora Fullstack · Cloud & Data Engineering**
 
-- 🔭 Desenvolvedora @ Sys Manager
+- 🔭 Desenvolvedora @ Sys Manager - Grupo Globo
 - 🌱 Estudando GCP, OCI e Data Engineering
 - 📚 MBA em AI, Data Science & Big Data · PUCRS
 - 😄 Pronomes: ela/dela
